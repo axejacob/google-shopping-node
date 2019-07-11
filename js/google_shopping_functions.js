@@ -1,4 +1,5 @@
 // use require to get the json file data
+let products = require('../products.json')
 
 /*
  * example function called getItemsCount
